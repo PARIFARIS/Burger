@@ -1,4 +1,4 @@
-⬤ Pilih menu makanan
+● Pilih menu makanan
 
 Dibangunkan menggunakkan HTML dan CSS untuk 
   - Melihat paparan restoran
